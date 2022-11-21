@@ -2,11 +2,11 @@
 JRTP (Java Real-time Project) - Fullstack Development
 ++++++++++++++++++++++++++++++++++++++++++++++
 
-Tech Stack : Java 8 + Spring Boot + Microservices + AWS Cloud + Angular
+##Tech Stack : Java 8 + Spring Boot + Microservices + AWS Cloud + Angular
 
-Course Code : 21-JRTP
+$$$$Course Code : 21-JRTP
 
-Name 	: Ashok 
+%%%%%%%Name 	: Ashok 
 Exp		: 9+ Yrs Of IT Exp as Java Fullstack Developer
 Role		: Tech Lead in MNC Company (Banking Sector)
 Skills	: Java JEE, Spring, Boot, REST API, Microservices, Cloud, Linux , AWS, DevOps & Angular
@@ -25,7 +25,7 @@ Pre-Requisites
 Course Content
 ++++++++++++++
 
-Part-1 : IT Industry Details 
+####333333Part-1 : IT Industry Details 
 
 -> Types of companies, Interview Process, Projects, Types of Jobs, Types of Teams, Bridge Calls, Role Chart etc..
 
